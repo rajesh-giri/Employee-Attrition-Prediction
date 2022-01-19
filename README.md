@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction
+In recent years, attention has increasingly been paid to human resources (HR), since worker quality and skills represent a growth factor and a real competitive advantage for companies. This dataset contains information about a segment of employees in the sales team of a large insurance company regarding demographics, tenure and past performance of the employees. This model aims to solve a binary classification problem where it predicts employees who are likely to leave the organization.
